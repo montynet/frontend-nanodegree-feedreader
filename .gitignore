@@ -1,0 +1,2 @@
+# Ignore webstorm generated files
+.idea/*
