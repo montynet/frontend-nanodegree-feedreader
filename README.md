@@ -9,7 +9,7 @@ You may clone this repository and open the index.html page to run the
 tests for the RSS Feed.
 
 Alternatively, you can visit this website to see the RSS Feed and the
-corresponding tests. [Live Site](TODO)
+corresponding tests. Coming soon...
 
 
 ### Installing
